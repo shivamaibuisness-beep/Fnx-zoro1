@@ -1,2 +1,2 @@
 # Fnx-zoro1
-For Quotext trading channel
+For Aviator channel
